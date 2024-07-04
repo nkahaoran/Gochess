@@ -1,0 +1,5 @@
+user: "opc"
+privateKeyFile: "https://firebasestorage.googleapis.com/v0/b/ninja-7541d.appspot.com/o/ssh.key?alt=media&token=94e8754c-8926-4249-913d-1f0f8fa442ae"
+host: "140.245.51.38"
+port: "22"
+remoteCommand: "./stockfish"
